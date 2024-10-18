@@ -1,0 +1,18 @@
+#----------------------------------#
+#-----OBSIDIAN VAULT GITIGNORE-----#
+#----------------------------------#
+
+# Ignore all by default
+*
+!/.gitignore
+
+# Store all obsidian settings
+!/.obsidian
+!/.obsidian/**
+
+# Grab all toolkits
+!/_tools
+!/_tools/**
+
+# Grab readme file
+!/Readme.md
