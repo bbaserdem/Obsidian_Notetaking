@@ -10,9 +10,10 @@
 !/.obsidian
 !/.obsidian/**
 
-# Grab all toolkits
-!/_tools
-!/_tools/**
+# Grab all data except attachments
+!/_data
+!/_data/**
+/_data/Attachments
 
 # Grab readme file
 !/Readme.md

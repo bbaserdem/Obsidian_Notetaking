@@ -18,6 +18,8 @@ not done
 ### Pending Tasks
 
 ```tasks
+path does not include _tools
+path does not include _data
 priority is not high
 not done
 ```
@@ -31,5 +33,7 @@ not done
 ## Tasks Completed
 
 ```tasks
+path does not include _tools
+path does not include _data
 done on {{date:YYYY-MM-DD}}
 ```

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tools/Templates/Daily Notes Template.md",
+                "file": "People/Kevin Lin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes Template"
+              "title": "Kevin Lin"
             }
           }
         ]
@@ -179,36 +179,43 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": false
     }
   },
-  "active": "c7399d4b5fb94cef",
+  "active": "f9ee84bdfbf881f1",
   "lastOpenFiles": [
+    "Daily_Notes",
+    "Meeting Notes/Meeting with Kevin.md",
+    "People/Kaitlyn Mazzarella.md",
+    "Meeting Notes/Coaching meeting 1.1.md",
+    "_data/Templater/Meeting Template.md",
+    "_data/Templater/Person Template.md",
+    "_data/Templater/Daily Notes Template.md",
+    "Daily Notes/2024/10-October/2024_10_19.md",
+    "_tools/Templates/Daily Notes Template.md",
+    "_data/Templater",
+    "_data/Snippets",
     "Daily Notes/2024/10-October/2024_10_18.md",
     "Daily Notes/2024/10-October/2024_10_17.md",
-    "_tools/Templates/Daily Notes Template.md",
+    "Readme.md",
+    "Projects/Computers/PC/Hardware - Yertengri (PC).md",
+    "Untitled.canvas",
+    "Projects/Computers/PC",
+    "Projects/Computers",
+    "Projects",
     "2024-10-16.md",
     "Daily Notes/2024/10-October/2024_10_04.md",
     "Daily Notes/2024/10-October/2024-10-18.md",
     "_tools/Templates/Meeting Template.md",
-    "Readme.md",
-    "Daily_Notes",
-    "Meeting Notes/Coaching meeting 1.1.md",
     "Daily Notes/2024/10-October",
     "Daily Notes/2024",
     "_tools/Templates/Person Template.md",
     "Untitled.md",
-    "Meeting Notes/Meeting with Kevin.md",
     "People/Kevin Lin.md",
-    "People/Kaitlyn Mazzarella.md",
     "Welcome.md",
     "2024-10-18.md",
     "Meeting Notes",
-    "People",
-    "Daily Notes",
-    "_data/Attachments",
-    "_data",
-    "_tools/Templates",
-    "_tools"
+    "People"
   ]
 }

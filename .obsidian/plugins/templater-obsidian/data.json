@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_tools/Templates",
+  "templates_folder": "_data/Templater",
   "templates_pairs": [
     [
       "",
@@ -16,15 +16,15 @@
   "folder_templates": [
     {
       "folder": "Meeting Notes",
-      "template": "_tools/Templates/Meeting Template.md"
+      "template": "_data/Templater/Meeting Template.md"
     },
     {
       "folder": "Daily Notes",
-      "template": "_tools/Templates/Daily Notes Template.md"
+      "template": "_data/Templater/Daily Notes Template.md"
     },
     {
       "folder": "People",
-      "template": "_tools/Templates/Person Template.md"
+      "template": "_data/Templater/Person Template.md"
     }
   ],
   "enable_file_templates": false,

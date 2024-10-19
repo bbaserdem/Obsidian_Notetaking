@@ -4,7 +4,7 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "_tools/Templates",
+      "folder": "_data/Templater",
       "tag": "",
       "pattern": ".*Template$"
     },
